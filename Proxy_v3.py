@@ -1,14 +1,4 @@
-''' Test de modification avec Git
-
-BlaBlaBlaBlaBlaBlaBlaBla
-BlaBlaBlaBlaBlaBlaBlaBla
-BlaBlaBlaBlaBlaBlaBlaBla
-BlaBlaBlaBlaBlaBlaBlaBla
-BlaBlaBlaBlaBlaBlaBlaBla
-BlaBlaBlaBlaBlaBlaBlaBla
-'''
-
-
+#Test de modification avec Git
 
 # -*- coding: utf8 -*-
 import os
