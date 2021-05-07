@@ -1,0 +1,10 @@
+Voici les pré requis pour le fonctionnement de mon Script :
+
+
+1 : Ca parait évident mais Squid doit etre installé et sous Linux!
+2 : Avoir les balises #debut ACL et #debut blocage dans le fichier squid.conf ( voir le fichier d'exemple )
+3 : Squid doit etre configuré pour écouter le port 443
+4 : les machines connectées à squid doivent passer par le port 443 dans leur config proxy pour tout traffic web
+5 : Python3 installé sur la machine proxy
+
+
